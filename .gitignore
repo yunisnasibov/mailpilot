@@ -1,0 +1,11 @@
+.env
+.venv/
+data/
+node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.test-tmp*/
+configure_local.py
